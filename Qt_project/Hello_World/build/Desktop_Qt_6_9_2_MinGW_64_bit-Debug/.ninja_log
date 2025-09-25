@@ -1,0 +1,12 @@
+# ninja log v6
+2	54	7795605568015495	E:/Qt项目/Hello_World/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	96892674e06ce46f
+1450	1560	7795605093337443	Hello_World.exe	8f5f54c0f06a5e18
+81	213	7795605080528646	Hello_World_autogen/timestamp	62c9c20f80d94b78
+81	213	7795605080528646	Hello_World_autogen/mocs_compilation.cpp	62c9c20f80d94b78
+81	213	7795605080528646	E:/Qt项目/Hello_World/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Hello_World_autogen/mocs_compilation.cpp	62c9c20f80d94b78
+81	213	7795605080528646	E:/Qt项目/Hello_World/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Hello_World_autogen/timestamp	62c9c20f80d94b78
+215	262	7795605080996033	CMakeFiles/Hello_World.dir/Hello_World_autogen/mocs_compilation.cpp.obj	1f7a27b9b2209b3b
+217	1449	7795605081016036	CMakeFiles/Hello_World.dir/main.cpp.obj	a0c1767c8880fe70
+55	533	7795605572484074	build.ninja	1f2b9da5a18ce07d
+15	72	7795605573158238	E:/Qt项目/Hello_World/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	96892674e06ce46f
+72	93	7795605573769969	CMakeFiles/clean.additional	adcc2f785672e3a3
